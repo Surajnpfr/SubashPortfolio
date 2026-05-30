@@ -84,8 +84,8 @@ export default function AboutPage() {
         </div>
 
         <div style={{ display: "flex", justifyContent: "center" }}>
-          <div style={{ position: "relative", width: "300px", height: "360px", border: "4px solid #000", boxShadow: "12px 12px 0 #000", backgroundColor: "#FFD43B", overflow: "hidden", flexShrink: 0 }}>
-            <Image src="/subash-profile.png" alt="Subash Nepal portrait" fill style={{ objectFit: "cover" }} />
+          <div style={{ position: "relative", width: "300px", height: "300px", border: "4px solid #000", boxShadow: "12px 12px 0 #000", backgroundColor: "#FFF8E7", overflow: "hidden", flexShrink: 0, display: "flex", alignItems: "center", justifyContent: "center" }}>
+            <Image src="/logo.png" alt="Subash Nepal logo" fill style={{ objectFit: "contain", padding: "2rem" }} />
           </div>
         </div>
       </section>
