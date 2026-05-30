@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   keywords:
     "video editor, 3D artist, web designer, freelance, Nepal, Bhairahawa, Blender, Adobe Premiere Pro",
   icons: {
-    icon: "/logo.png",
+    icon: [{ url: "/logo.png", type: "image/png" }],
     shortcut: "/logo.png",
     apple: "/logo.png",
   },
