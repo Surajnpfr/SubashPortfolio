@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Subash Nepal** — Video Editor, 3D Artist & Web Designer from Bhairahawa, Nepal.
 
-🔗 **Live site:** [subashnepal.com](https://subashnepal.dev)
+🔗 **Live site:** [subashnepal.dev](https://subashnepal.dev)
 
 ---
 
